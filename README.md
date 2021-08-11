@@ -1,2 +1,2 @@
-# wegoProject
+# wegoProjectWeb
 Structure, Design, Action
